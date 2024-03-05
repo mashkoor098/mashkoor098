@@ -1,4 +1,4 @@
-![logo](https://github.com/mashkoor098/mashkoor098/blob/main/github_banner.png)
+![logo](https://github.com/mashkoor098/mashkoor098/blob/main/GITHUB%20BANNER.png)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
