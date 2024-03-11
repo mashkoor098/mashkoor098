@@ -14,7 +14,7 @@
 
 ###
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=33&pause=1000&color=4F45F7&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+There;+I'm+Mashkoor+Patel;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=33&pause=1000&color=4F45F7&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+viewer;+I'm+Mashkoor+Patel;"/>
 </h1>
 <h3 align="center">Python, Data Science and AI&ML Enthusiast</h3>
 
