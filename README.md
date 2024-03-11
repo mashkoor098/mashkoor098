@@ -1,9 +1,7 @@
 ![logo](https://github.com/mashkoor098/mashkoor098/blob/main/GITHUB%20BANNER.png)
-<h1 align="left">Hey 👋 What's up?</h1>
+
 
 ###
-
-<p align="left" background="https://assets-global.website-files.com/61dc0796f359b6eeecc06eab/65cf2bd55bf0ab8881d97803_061253d0-042c-41c4-8e7e-58d4066be13a.png">My name is Mashkoor_Patel and I'm a Python developer as well as a Data analyst, from ...India.</p>
 
 <table align="right" >
   <tr>
@@ -14,18 +12,38 @@
 </table>
 
 
-
 ###
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=33&pause=1000&color=4F45F7&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+There;+I'm+Mashkoor+Patel;"/>
+</h1>
+<h3 align="center">Python, Data Science and AI&ML Enthusiast</h3>
 
-<h2 align="left">About me</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abuzar6zbxa&label=Profile%20views&color=0e75b6&style=flat" alt="abuzar6zbxa" /> </p>
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Data Science<br>🎯 Goals: To become perfect in English and Make large-scale projects in a peaceful environment.<br>🎲 I play PC games and Quiz Games, also I used to do bicycling.<br>keep calm and work hard to become 1% better every day!</p>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> About Myself:
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" /> I’m currently working on **open-source.** as well as at Tech Masters 
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> Currently I’m a final year student of **Btech in CSE.**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Leftwards%20Hand.webp" alt="Leftwards Hand" width="25" height="25" /> I’m looking to collaborate on **Python development and Data Science.**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> I’m looking for help with **AI & ML.**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> Ask me about **Python development, MYSQL, SQL, Database, Data Analytics, Data wrangling, Software development using Tkinter etc .**
+  
+🛫 How to connect me mashkoor.technocoder@gmail.com
+
+
+<p align="left">✨ Creating and solving bugs since 2019.<br><br>
+  📚 I'm further expanding my skills in Data Science.<br><br>
+  🎯 Goals: To become proficient in English and Make large-scale projects in a peaceful environment.<br><br>
+  🎲 I play PC games and Quiz Games, also I read books and newspaper.<br><br>
+  Tag Line: Keep calm and work hard to become 1% better every day!</p>
 
 ###
 
 <h2 align="left">I code with</h2>
-
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -73,12 +91,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mashkoor098&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 ###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mashkoor098/count.svg?"  />
-</div>
-
-###
 
 
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 
-###
+
+<img src="https://raw.githubusercontent.com/Nitish08in/Nitish08in/output/snake.svg" alt="Snake animation" />
+
+
