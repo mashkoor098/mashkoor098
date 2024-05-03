@@ -2,14 +2,9 @@
 
 
 ###
-
-<table align="right" >
-  <tr>
-    <td>
+  <div align="right">
       <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-    </td>
-  </tr>
-</table>
+  </div>
 
 
 ###
