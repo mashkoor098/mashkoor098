@@ -2,15 +2,17 @@
 
 
 ###
+  <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=33&pause=1000&color=4F45F7&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+viewer;+I'm+Mashkoor+Patel;"/>
+  </h1>
   <div align="right">
       <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
   </div>
 
 
+
 ###
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=33&pause=1000&color=4F45F7&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+viewer;+I'm+Mashkoor+Patel;"/>
-</h1>
+
 <h3 align="center">Python, Data Science and AI&ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuzar6zbxa&label=Profile%20views&color=0e75b6&style=flat" alt="abuzar6zbxa" /> </p>
