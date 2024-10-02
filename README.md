@@ -96,3 +96,12 @@
 <img src="https://raw.githubusercontent.com/Nitish08in/Nitish08in/output/snake.svg" alt="Snake animation" />
 
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satya7390&show_icons=true&locale=en&layout=compact" alt="satya7390" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satya7390&show_icons=true&locale=en" alt="satya7390" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satya7390&" alt="satya7390" /></p>
+
+
