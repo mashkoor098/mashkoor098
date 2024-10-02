@@ -85,17 +85,8 @@
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=mashkoor098&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mashkoor098&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-###
-
-
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
-
-
-<img src="https://raw.githubusercontent.com/Nitish08in/Nitish08in/output/snake.svg" alt="Snake animation" />
-
-
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mashkoor098&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+ -->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashkoor098&show_icons=true&locale=en&layout=compact" alt="satya7390" /></p>
@@ -103,5 +94,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashkoor098&show_icons=true&locale=en" alt="satya7390" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashkoor098&" alt="satya7390" /></p>
+
+
+<img src="https://raw.githubusercontent.com/Nitish08in/Nitish08in/output/snake.svg" alt="Snake animation" />
 
 
