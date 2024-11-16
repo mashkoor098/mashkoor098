@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="center">Python, Data Science and AI&ML Enthusiast</h3>
+<h3 align="center">Python,Data Analyst, Data Science and AI&ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuzar6zbxa&label=Profile%20views&color=0e75b6&style=flat" alt="abuzar6zbxa" /> </p>
 
@@ -21,11 +21,11 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" /> I’m currently working on **open-source.** as well as at Tech Masters 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> Currently I’m a final year student of **Btech in CSE.**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> I’m a recently Graduated student of **COMPUTER Engg..**
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Leftwards%20Hand.webp" alt="Leftwards Hand" width="25" height="25" /> I’m looking to collaborate on **Python development and Data Science.**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> I’m looking for help with **AI & ML.**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> I’m looking for help with **Cloud and AI & ML.**
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> Ask me about **Python development, MYSQL, SQL, Database, Data Analytics, Data wrangling, Software development using Tkinter etc .**
   
