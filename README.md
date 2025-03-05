@@ -9,11 +9,9 @@
       <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
   </div>
 
-
-
 ###
 
-<h3 align="center">Python,Data Analyst, Data Science and AI&ML Enthusiast</h3>
+<h3 align="center">AWS Cloud engg., Python,Data Analyst, Data Science and AI&ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abuzar6zbxa&label=Profile%20views&color=0e75b6&style=flat" alt="abuzar6zbxa" /> </p>
 
