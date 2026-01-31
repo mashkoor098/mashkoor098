@@ -1,102 +1,101 @@
-![logo](https://github.com/mashkoor098/mashkoor098/blob/main/GITHUB%20BANNER.png)
+<h1 align="center">Hi 👋 I'm Mashkoor Patel</h1>
+<h3 align="center">Cloud Engineer | Python Developer | Freelancer |  B.Tech 2024</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Projects+and+Portfolios;Excited+to+Join+the+Tech+Industry!;Building+ETL+pipelines;" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 **B.Tech Computer Engineering** (2021-2024) | CGPA: **7.43**
+- 💼 **Junior Software Engineer @ Pingahla** – Backend support, **Azure Synapse API troubleshooting**
+- 🛠️ **Reduced reporting time by 25%** through Power BI + SQL optimization
+- 📊 **1.5+ years** in ETL pipelines, data analytics, REST API debugging
+- 🎯 **Microsoft Technical Support Engineer** – Azure Identity & Entra ID focused
+
+---
+
+## 🧠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,azure,postgresql,postman,powerbi,tableau,git,github,linux,mysql,aws" />
+</p>
+
+---
+
+## 📚 Microsoft Learn Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Entra_ID-Identity+Types-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Fundamentals-Trophy-brightgreen?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS-900-M365+Security-yellow?style=for-the-badge&logo=microsoft365&logoColor=white" />
+</p>
+
+**✅ Key Badges:**
+- *Describe function & identity types of Microsoft Entra ID* (Jan 2026)
+- *Azure Identity, Access & Security*
+- *Azure Fundamentals: Cloud Concepts + Architecture* (Trophies)
+
+---
+
+## 🧪 Featured Projects & Impact
+
+| Project | Tech Stack | **Achievement** |
+|---------|------------|-----------------|
+| **File Organizer** | Python, Tkinter, OS | **Automated desktop organization** - hours saved weekly |
+| **Sales Dashboard** | Tableau, MySQL, ETL | **25% faster insights** - better inventory decisions |
+| **Azure Synapse Fix** | Azure Synapse, Data Lake | **Resolved API auth failure** via test accounts + config |
+
+---
+
+## 💼 Professional Experience
 
 
-###
-  <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=33&pause=1000&color=4F45F7&center=true&vCenter=true&random=false&width=435&lines=Hi+👋,+viewer;+I'm+Mashkoor+Patel;"/>
-  </h1>
-  <div align="right">
-      <img height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-  </div>
+---
 
-###
+## 📖 Currently Learning
 
-<h3 align="center">AWS Cloud engg., Python,Data Analyst, Data Science and AI&ML Enthusiast</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerShell-Azure-F75F00?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZ-500-Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entra_ID-Advanced-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abuzar6zbxa&label=Profile%20views&color=0e75b6&style=flat" alt="abuzar6zbxa" /> </p>
+---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> About Myself:
+## 📫 Connect With Me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" /> I’m currently working on **open-source.** as well as at Tech Masters 
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> I’m a recently Graduated student of **COMPUTER Engg..**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Leftwards%20Hand.webp" alt="Leftwards Hand" width="25" height="25" /> I’m looking to collaborate on **Python development and Data Science.**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> I’m looking for help with **Cloud and AI & ML.**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> Ask me about **Python development, MYSQL, SQL, Database, Data Analytics, Data wrangling, Software development using Tkinter etc .**
-  
-🛫 How to connect me mashkoor.technocoder@gmail.com
-
-
-<p align="left">✨ Creating and solving bugs since 2019.<br><br>
-  📚 I'm further expanding my skills in Data Science.<br><br>
-  🎯 Goals: To become proficient in English and Make large-scale projects in a peaceful environment.<br><br>
-  🎲 I play PC games and Quiz Games, also I read books and newspaper.<br><br>
-  Tag Line: Keep calm and work hard to become 1% better every day!</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="40" alt="minitab logo"  />
-  <img width="12" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" height="40" alt="minitab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mashkoorpatel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/mashkoorpatel/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://linktr.ee/patelmashkoor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=flat" height="30" alt="linktree logo"  />
+  <a href="mailto:patelmashkoor8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+  <a href="https://learn.microsoft.com/en-us/users/mashkoorpatel-8805/achievements">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-Badges-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/patelmashkoor">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+</p>
 
-###
+---
+
+## ✨ Fun Facts
+
+> "Reduced report generation by **25%** and debugged Azure auth at midnight! ☁️🔧"
+
+
+---
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=mashkoor098&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mashkoor098&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
- -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mashkoor098&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashkoor098&layout=compact&theme=radical&hide_border=true" width="40%"/>
+</div>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashkoor098&show_icons=true&locale=en&layout=compact" alt="satya7390" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashkoor098&show_icons=true&locale=en" alt="satya7390" /></p>
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashkoor098&" alt="satya7390" /></p> 
--->
-
-
-<img src="https://raw.githubusercontent.com/Nitish08in/Nitish08in/output/snake.svg" alt="Snake animation" />
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
