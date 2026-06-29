@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mashkoor Patel 👋</h1>
-<h3 align="center">Technical Support Engineer | Azure Cloud & Infrastructure | Python & Data Pipelines</h3>
+<h3 align="center"> Python & Data Pipelines | Azure Cloud & Infrastructure | TSE </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Troubleshooting+Azure+Synapse+%26+OAuth+2.0+issues;Building+resilient+ETL+pipelines;Automating+workflows+with+RPA+%26+Python;Always+learning%2C+always+debugging+%E2%98%81%EF%B8%8F" />
@@ -7,16 +7,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mashkoorpatel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:patelmashkoor8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-E11D48?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://learn.microsoft.com/en-us/users/mashkoorpatel-8805/achievements">
-    <img src="https://img.shields.io/badge/Microsoft_Learn-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>
+
   <a href="https://linktr.ee/patelmashkoor">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linktree-10B981?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+
+  <a href="https://mashkoor098.github.io/mashkoor-patel-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
 </p>
 
