@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mashkoor Patel 👋</h1>
-<h3 align="center"> Python & Data Pipelines | Azure Cloud & Infrastructure | TSE </h3>
+<h3 align="center"> Python & Data Pipelines | AWS / Azure Cloud & Infrastructure </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Troubleshooting+Azure+Synapse+%26+OAuth+2.0+issues;Building+resilient+ETL+pipelines;Automating+workflows+with+RPA+%26+Python;Always+learning%2C+always+debugging+%E2%98%81%EF%B8%8F" />
