@@ -83,7 +83,7 @@
 - Author internal runbooks and troubleshooting guides to reduce team-wide resolution time
 - Engineered an unattended **Automation Anywhere A360 RPA bot** for encrypted data ingestion with zero contamination incidents
 
-**Data Analyst Intern** · *TechMaster* (Onsite) · Jun 2024 – Dec 2024
+**Data Analyst Intern** · *Oxnural* (Onsite) · Jun 2024 – Dec 2024
 - Resolved data-integrity issues using complex SQL (joins, aggregations, subqueries)
 - Built and maintained Power BI dashboards tracking critical business KPIs
 
