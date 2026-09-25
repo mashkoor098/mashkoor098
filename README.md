@@ -35,7 +35,7 @@
 - ☁️ 1+ year of hands-on experience with **Azure Data Lake (ADLS Gen2)**, **Azure Synapse Analytics**, and **AWS (S3, EC2)**
 - 🔌 Deep-dive troubleshooting of **REST API connectors** (Snapchat Ads, LinkedIn Ads, Navan) — auth failures, token expiry, endpoint connectivity
 - 🤖 Built an unattended **Automation Anywhere A360 RPA bot** for encrypted data ingestion, cutting data contamination incidents to zero
-- 📊 Started out as a **Data Analyst Intern @ TechMaster**, building Power BI dashboards and resolving data-integrity issues with SQL
+- 📊 Started out as a **Data Analyst Intern @ Oxnural**, building Power BI dashboards and resolving data-integrity issues with SQL
 - 🎓 **B.Tech in Computer Engineering**, KCE Society's College of Engineering and Management (2021–2024) | CGPA: **7.43/10**
 - 📍 Based in Bhusawal, Maharashtra, India — open to relocation
 
