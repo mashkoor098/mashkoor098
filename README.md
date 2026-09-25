@@ -76,16 +76,36 @@
 
 ## 💼 Experience
 
-**Junior Software Engineer – Cloud & Data Support** · *Pingahla* (Remote) · Jun 2025 – Present
-- Own and resolve production-impacting issues: Azure Synapse API auth failures, OAuth 2.0 errors, ETL ingestion failures
-- Diagnose cloud infrastructure issues across ADLS Gen2, Azure Synapse, and AWS S3 — schema misalignments, NULL-mapping failures
-- Troubleshoot REST API connectors (Snapchat Ads, LinkedIn Ads, Navan) — HTTP/S errors, token expiry, endpoint connectivity
-- Author internal runbooks and troubleshooting guides to reduce team-wide resolution time
-- Engineered an unattended **Automation Anywhere A360 RPA bot** for encrypted data ingestion with zero contamination incidents
+**Junior Software Developer** · *Pingahla* (Remote) · Sep 2025 – Present
 
-**Data Analyst Intern** · *Oxnural* (Onsite) · Jun 2024 – Dec 2024
-- Resolved data-integrity issues using complex SQL (joins, aggregations, subqueries)
-- Built and maintained Power BI dashboards tracking critical business KPIs
+* Develop and maintain backend applications using Python and Django.
+* Integrate REST APIs and troubleshoot application and data-integration issues.
+* Work with databases and optimize queries to support application performance.
+* Collaborate with cross-functional teams to build and enhance product features involving data and analytics.
+* Support deployment activities and maintain version control using Git.
+
+**Data Engineer Intern** · *Pingahla* (Remote) · Jun 2025 – Aug 2025
+
+* Assisted in designing and maintaining data pipelines for project requirements.
+* Worked with ETL processes and databases to support reliable data processing.
+* Contributed to report automation and internal technical documentation.
+* Worked with Azure storage services as part of data and ETL workflows.
+
+**Data Analyst & Python Developer** · *OxNeural* (Onsite) · May 2024 – May 2025
+
+* Used SQL to extract, transform, and analyze data for business requirements.
+* Built reports and visualizations to support analysis of operational and performance metrics.
+* Defined and tracked KPIs using data from multiple sources.
+* Maintained and updated databases and supported data-quality activities.
+* Worked with non-technical stakeholders to understand requirements and communicate analytical findings.
+
+**Web Development Intern** · *Krishna Tech Creation* (Remote) · May 2023 – Apr 2024
+
+* Developed responsive websites using HTML, CSS, JavaScript, and Bootstrap.
+* Integrated REST APIs and dynamic data into web interfaces.
+* Converted UI/UX designs into functional and responsive web pages.
+* Supported website updates, bug fixes, testing, and deployment activities.
+* Used Git and followed basic web development and team collaboration workflows.
 
 <br>
 
