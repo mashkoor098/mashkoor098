@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mashkoor Patel 👋</h1>
-<h3 align="center"> Python & Data Pipelines | AWS / Azure Cloud & Infrastructure </h3>
+<h3 align="center"> Cloud & Application Support | Python & APIs | AWS / Azure </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Troubleshooting+Azure+Synapse+%26+OAuth+2.0+issues;Building+resilient+ETL+pipelines;Automating+workflows+with+RPA+%26+Python;Always+learning%2C+always+debugging+%E2%98%81%EF%B8%8F" />
@@ -31,11 +31,11 @@
 
 ## 🧭 About Me
 
-- 🛠️ **Junior Software Engineer (Cloud & Data Support)** @ **Pingahla** — resolving production-impacting issues across Azure Synapse, OAuth 2.0, and ETL pipelines
-- ☁️ 1+ year of hands-on experience with **Azure Data Lake (ADLS Gen2)**, **Azure Synapse Analytics**, and **AWS (S3, EC2)**
+- 🛠️ **Junior Software Developer @ Pingahla** @ **Pingahla** — resolving production-impacting issues across Azure Synapse, OAuth 2.0, and ETL pipelines
+- ☁️ Hands-on experience with Azure services including Azure Functions, Azure Storage, Service Bus (Topics & Subscriptions), Cosmos DB, and SQL Database, with recent exposure to Azure DevOps Pipelines; also worked with Azure Synapse Analytics and AWS (S3, EC2).**
 - 🔌 Deep-dive troubleshooting of **REST API connectors** (Snapchat Ads, LinkedIn Ads, Navan) — auth failures, token expiry, endpoint connectivity
 - 🤖 Built an unattended **Automation Anywhere A360 RPA bot** for encrypted data ingestion, cutting data contamination incidents to zero
-- 📊 Started out as a **Data Analyst Intern @ Oxnural**, building Power BI dashboards and resolving data-integrity issues with SQL
+- 📊 Started out as a **Data Analyst Intern @ OxNeural**, building Power BI dashboards and resolving data-integrity issues with SQL
 - 🎓 **B.Tech in Computer Engineering**, KCE Society's College of Engineering and Management (2021–2024) | CGPA: **7.43/10**
 - 📍 Based in Bhusawal, Maharashtra, India — open to relocation
 
@@ -123,6 +123,7 @@
 ## 📜 Certifications & Badges
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Microsoft-Certified%20Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM-Applied_Data_Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
