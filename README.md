@@ -2,7 +2,7 @@
 <h3 align="center"> Cloud & Application Support | Python & APIs | AWS / Azure </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Troubleshooting+Azure+Synapse+%26+OAuth+2.0+issues;Building+resilient+ETL+pipelines;Automating+workflows+with+RPA+%26+Python;Always+learning%2C+always+debugging+%E2%98%81%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Working+with+Azure+Functions+%26+Service+Bus;Building+ETL+%26+data+integration+workflows;Troubleshooting+APIs%2C+OAuth+2.0+%26+cloud+issues;Learning+Azure+%26+building+practical+cloud+solutions+%E2%98%81%EF%B8%8F" />
 </p>
 
 <p align="center">
